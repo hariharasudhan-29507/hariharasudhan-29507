@@ -1,5 +1,4 @@
 <h1 align="center"> Hey , I'm Hariharasudhan </h1>
-<h3 align="center">Undergraduate CSE @ MEPCO Schlenk Engineering College, Sivakasi, Tamil Nadu, India</h3>
 
 <p align="center">
   <img src="./assets/about-card.svg" alt="About Hariharasudhan A" />
