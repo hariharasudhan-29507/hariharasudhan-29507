@@ -1,6 +1,8 @@
 <h1 align="center">Hey, I'm Hariharasudhan 👋</h1>
 
-<h3 align="center">Student @ Mepco Schlenk Engineering College, Sivakasi, TamilNadu, India</h3>
+<p align="center">
+  <img src="./assets/about-card.svg" alt="About Hariharasudhan A" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&pause=3000&color=39D353&center=true&vCenter=true&repeat=false&width=1100&lines=%22Those+who+cannot+remember+the+past+are+condemned+to+repeat+it%22+%E2%80%93+Dynamic+Programming" />
